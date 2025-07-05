@@ -1,0 +1,37 @@
+/* Universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Tag selector */
+
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+
+/* Class selector */
+
+.subtitle{
+    color: rgb(242, 12, 131);
+    font-size: 30px;
+}
+
+/* Id selector */
+
+#restaurant-list{
+    background-color:lightblue ;
+}
+
+/* Grouping selector */
+
+.name,.info{
+    text-decoration: underline;
+}
+
+p[class="footer-text"]{
+    background-color: brown;
+}

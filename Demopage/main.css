@@ -1,0 +1,110 @@
+/* Universal reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and overall page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f5;
+  color: #333;
+  padding: 20px;
+}
+
+/* Grouping selector for text styles */
+h1, h2, p {
+  margin-bottom: 10px;
+}
+
+/* Header section */
+#header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#header h1 {
+  color: #d23f3f;
+  font-size: 36px;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #777;
+}
+
+/* Search section */
+#search {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.search-box {
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;
+}
+
+.search-button {
+  padding: 10px 16px;
+  background-color: #d23f3f;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Restaurant list */
+#restaurant-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+}
+
+.restaurant {
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Attribute selector: color per cuisine type */
+[data-type="indian"] {
+  border-left: 5px solid #ff5722;
+}
+
+[data-type="chinese"] {
+  border-left: 5px solid #2196f3;
+}
+
+[data-type="dessert"] {
+  border-left: 5px solid #9c27b0;
+}
+
+.name {
+  font-size: 22px;
+  color: #444;
+}
+
+.info {
+  font-size: 16px;
+  color: #666;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #f9f9f9;
+}
+
+.footer-text {
+  color: #999;
+  font-size: 14px;
+}
