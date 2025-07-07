@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .parent p {
+  color: blue;
+} */
+
+.parent > p {
+  font-weight: bold;
+  color: red;
+}
+h2 + p {
+  background-color: yellow;
+}
+h2 ~ p {
+  border: 1px solid red;
+}
