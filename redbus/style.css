@@ -288,3 +288,14 @@ background-position: center;
   background-color: #1976d2;
   color: white;
 }
+
+
+
+
+
+
+/* Short Hand notation */
+
+/* background: [color] [image] [repeat] [position] / [size] [attachment]; */
+
+/* background: #f2f2f2 url("./assests/bus.jpg") no-repeat center/50% 50% scroll; */
