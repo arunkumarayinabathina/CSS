@@ -6,3 +6,4 @@
 - **[Day-4 Practice](../../tree/Day-4)**: Fourth day practice
 - **[Day-5 Practice](../../tree/Day-5)**: Fifth day practice
 - **[Day-6 Practice](../../tree/Day-6)**: Sixth day practice
+- **[Day-7 Practice](../../tree/Day-7)**: Seventh day practice
