@@ -85,13 +85,14 @@ main{
     margin-top: 35px;
 }
 .cardone-tag{
-    background-color: rgb(232, 187, 229);
-    color: rgb(225, 9, 211);
+    background-color: rgb(244, 212, 242);
+    color: rgb(249, 81, 238);
     padding-top: 2px;
     padding-bottom: 2px;
     padding-left: 8px;
     padding-right: 8px;
     font-size: 12px;
+    font-weight: bold;
     border-radius: 10px;
     text-align: center;
 }
@@ -138,18 +139,20 @@ main{
     padding: 10px;
 }
 .twocards-tag1{
-    background-color: rgb(169, 169, 244);
-    color: blue;
+    background-color: rgb(202, 202, 250);
+    color: rgb(93, 93, 245);
     padding: 2px 8px 2px 8px;
     text-align: center;
     border-radius: 10px;
     font-size: 12px;
+    font-weight: bold;
 }
 .twocards-tag2{
-    background-color: rgb(136, 234, 169);
-    color: rgb(2, 133, 41);
+    background-color: rgb(201, 248, 217);
+    color: rgb(46, 250, 107);
     padding: 2px 8px 2px 8px;
     text-align: center;
+    font-weight: bold;
     border-radius: 10px;
     font-size: 12px;
 }
