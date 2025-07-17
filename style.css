@@ -289,7 +289,7 @@ main{
     display: flex;
     align-items: center;
     margin-top: 20px;
-    margin-right: 130px;
+    margin-right: 120px;
     margin-left: 120px;
     /* margin: 20px 70px; */
     justify-content: space-between;
@@ -334,7 +334,7 @@ main{
     padding: 10px;
 }
 .subscribe-main{
-    margin:20px 120px 10px 110px;
+    margin:20px 110px 10px 110px;
     background: white;
     display: flex;
     align-items: center;
