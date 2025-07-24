@@ -9,3 +9,4 @@
 - **[Day-7 Practice](../../tree/Day-7)**: Seventh day practice
 - **[Flex Box Task](../../tree/flex-task)**: Assignement
 - **[Day-10 Practice](../../tree/Day-10)**: Tenth day practice
+- **[Day-11 Practice (animations)](../../tree/animations)**
